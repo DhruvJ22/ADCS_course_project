@@ -1,4 +1,4 @@
-# Attityde Dynamics Project
+# Attitude Dynamics Project
 
 The repository contains work done as part of a graduate level dynamics course at Purdue University.
 
